@@ -1,0 +1,14 @@
+
+It is Library     React is a JavaScript Library for building User Interfaces or UI components
+
+library-Libraries provide developers with predefined functions and classes to make their work easier and boost the development process.
+       Library is small in size.
+         For example React is library
+           Libraries only contains the bare minimum that you need to get started. Anything extra, you need to install separately.
+           
+framework-Framework, on the other hand, is like the foundation upon which developers build applications for specific platforms. 
+          Framework is big in size.   
+            for example Angular is framework
+           In a framework, many things are built in.
+
+
